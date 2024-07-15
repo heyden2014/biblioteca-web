@@ -8,7 +8,7 @@ const Libros = () => {
   return (
     <>
     <div className="contenedor">
-    <button className="botton-registrar" >REGISTRAR LIBRO</button>
+    <a className="botton-registrar" >REGISTRAR LIBRO</a>
     </div>
       <div className="container-items">
         
